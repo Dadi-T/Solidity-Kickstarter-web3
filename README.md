@@ -12,6 +12,13 @@
 - [x] Contributers can approve requests
 - [x] Campaign owner can finalize approved requests
 
+## Used
+
+- [x] Solidity
+- [x] NextJS
+- [x] Web3
+- [x] Semantic-ui react
+
 #### Features in the contract
 
 In this project, the contract creates another contract
